@@ -1,5 +1,5 @@
 import random
 
 if __name__=="__main__":
-    x = random.random()
+    x = r()
     print("X: {}".format(x))
